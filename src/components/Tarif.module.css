@@ -1,0 +1,84 @@
+.tarif__name {
+  width: 280px;
+  height: 190px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(183, 183, 183, 0.43);
+  border-radius: 10px 10px 0px 0px;
+  font-weight: 600;
+  font-size: 36px;
+  color: #4a7894;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+.icon {
+  padding: 20px;
+  margin: 0 auto;
+}
+.tarif__option {
+  position: relative;
+  width: 280px;
+  height: 488px;
+  text-align: center;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(183, 183, 183, 0.43);
+  border-radius: 0px 0px 10px 10px;
+  margin-bottom: 20px;
+}
+.top p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #858585;
+  margin: 0 18px 14px;
+}
+.first {
+  font-size: 20px;
+  font-weight: 600;
+  color: #3c3b3b;
+}
+.top {
+  padding-top: 18px;
+}
+.bottom {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.bottom button {
+  margin: 25px;
+}
+.new_price {
+  width: 150px;
+  height: 67px;
+  color: #1b567c;
+  background: linear-gradient(90deg, #7cb4d8 0%, rgba(191, 230, 255, 0) 100%);
+}
+.new_price p:first-child {
+  font-weight: 600;
+  font-size: 36px;
+  letter-spacing: 0.05em;
+}
+.new_price p:last-child,
+.old_price p:last-child {
+  font-size: 14px;
+  position: relative;
+  top: -10px;
+}
+
+.old_price {
+  text-decoration: line-through;
+  width: 130px;
+  height: 67px;
+}
+.old_price p:first-child {
+  font-size: 36px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .tarif__name {
+    margin-bottom: 0;
+  }
+}
