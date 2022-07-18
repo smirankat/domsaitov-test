@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/domsaitov-test/static/css/main.0cad20c5.chunk.css",
+    "main.js": "/domsaitov-test/static/js/main.30f1fefc.chunk.js",
+    "main.js.map": "/domsaitov-test/static/js/main.30f1fefc.chunk.js.map",
+    "runtime-main.js": "/domsaitov-test/static/js/runtime-main.03740fe4.js",
+    "runtime-main.js.map": "/domsaitov-test/static/js/runtime-main.03740fe4.js.map",
+    "static/js/2.0f7c796f.chunk.js": "/domsaitov-test/static/js/2.0f7c796f.chunk.js",
+    "static/js/2.0f7c796f.chunk.js.map": "/domsaitov-test/static/js/2.0f7c796f.chunk.js.map",
+    "index.html": "/domsaitov-test/index.html",
+    "static/css/main.0cad20c5.chunk.css.map": "/domsaitov-test/static/css/main.0cad20c5.chunk.css.map",
+    "static/js/2.0f7c796f.chunk.js.LICENSE.txt": "/domsaitov-test/static/js/2.0f7c796f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/domsaitov-test/static/media/phone.fcb9a004.svg",
+    "static/media/image1.da15c21a.png": "/domsaitov-test/static/media/image1.da15c21a.png",
+    "static/media/image5.06b32815.png": "/domsaitov-test/static/media/image5.06b32815.png",
+    "static/media/instant.740b4d50.png": "/domsaitov-test/static/media/instant.740b4d50.png",
+    "static/media/logo.448ee055.svg": "/domsaitov-test/static/media/logo.448ee055.svg",
+    "static/media/photo.2190cc9d.png": "/domsaitov-test/static/media/photo.2190cc9d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03740fe4.js",
+    "static/js/2.0f7c796f.chunk.js",
+    "static/css/main.0cad20c5.chunk.css",
+    "static/js/main.30f1fefc.chunk.js"
+  ]
+}
