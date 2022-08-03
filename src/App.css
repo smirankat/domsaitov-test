@@ -820,6 +820,10 @@ footer .wrapper > div:last-child {
   .cms-logo {
     margin-bottom: 20px;
   }
+  .SSL .book-btn {
+    width: 270px;
+    padding: 0;
+  }
   .domain-name button {
     line-height: 1.5;
     padding: 10px;
