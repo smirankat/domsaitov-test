@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/domsaitov-test/static/css/main.0cad20c5.chunk.css",
-    "main.js": "/domsaitov-test/static/js/main.30f1fefc.chunk.js",
-    "main.js.map": "/domsaitov-test/static/js/main.30f1fefc.chunk.js.map",
-    "runtime-main.js": "/domsaitov-test/static/js/runtime-main.03740fe4.js",
-    "runtime-main.js.map": "/domsaitov-test/static/js/runtime-main.03740fe4.js.map",
-    "static/js/2.0f7c796f.chunk.js": "/domsaitov-test/static/js/2.0f7c796f.chunk.js",
-    "static/js/2.0f7c796f.chunk.js.map": "/domsaitov-test/static/js/2.0f7c796f.chunk.js.map",
+    "main.css": "/domsaitov-test/static/css/main.eed41e7e.css",
+    "main.js": "/domsaitov-test/static/js/main.505ab72d.js",
+    "static/media/SFProDisplay-Bold.woff": "/domsaitov-test/static/media/SFProDisplay-Bold.5b08afd6b167d7ec48ce.woff",
+    "static/media/SFProDisplay-Regular.woff": "/domsaitov-test/static/media/SFProDisplay-Regular.7ee14c637e39445d7093.woff",
+    "static/media/image1.png": "/domsaitov-test/static/media/image1.da15c21a786702faf921.png",
+    "static/media/image5.png": "/domsaitov-test/static/media/image5.06b32815067646f1b1b6.png",
+    "static/media/SFProDisplay-ThinItalic.woff": "/domsaitov-test/static/media/SFProDisplay-ThinItalic.3502db35ce0176c70258.woff",
+    "static/media/image.png": "/domsaitov-test/static/media/image.579f260cda2f527b2023.png",
+    "static/media/image2.png": "/domsaitov-test/static/media/image2.39ee60af1cf0df36714e.png",
+    "static/media/photo.png": "/domsaitov-test/static/media/photo.2190cc9d63a54def9525.png",
+    "static/media/instant.png": "/domsaitov-test/static/media/instant.740b4d50ca81bed2b883.png",
+    "static/media/logo.svg": "/domsaitov-test/static/media/logo.448ee0555c7a42323b7c4b272d47be73.svg",
+    "static/media/phone.svg": "/domsaitov-test/static/media/phone.fcb9a004da768c72a3f3.svg",
+    "static/media/location.svg": "/domsaitov-test/static/media/location.2cf6ba795076a42a6d9e.svg",
+    "static/media/mail.svg": "/domsaitov-test/static/media/mail.d0f37e1798537a3f952e.svg",
+    "static/media/avatar.svg": "/domsaitov-test/static/media/avatar.b24a5755b166467ebc2a.svg",
     "index.html": "/domsaitov-test/index.html",
-    "static/css/main.0cad20c5.chunk.css.map": "/domsaitov-test/static/css/main.0cad20c5.chunk.css.map",
-    "static/js/2.0f7c796f.chunk.js.LICENSE.txt": "/domsaitov-test/static/js/2.0f7c796f.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/domsaitov-test/static/media/phone.fcb9a004.svg",
-    "static/media/image1.da15c21a.png": "/domsaitov-test/static/media/image1.da15c21a.png",
-    "static/media/image5.06b32815.png": "/domsaitov-test/static/media/image5.06b32815.png",
-    "static/media/instant.740b4d50.png": "/domsaitov-test/static/media/instant.740b4d50.png",
-    "static/media/logo.448ee055.svg": "/domsaitov-test/static/media/logo.448ee055.svg",
-    "static/media/photo.2190cc9d.png": "/domsaitov-test/static/media/photo.2190cc9d.png"
+    "main.eed41e7e.css.map": "/domsaitov-test/static/css/main.eed41e7e.css.map",
+    "main.505ab72d.js.map": "/domsaitov-test/static/js/main.505ab72d.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.03740fe4.js",
-    "static/js/2.0f7c796f.chunk.js",
-    "static/css/main.0cad20c5.chunk.css",
-    "static/js/main.30f1fefc.chunk.js"
+    "static/css/main.eed41e7e.css",
+    "static/js/main.505ab72d.js"
   ]
 }
